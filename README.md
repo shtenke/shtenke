@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src=" width="10%" url = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-dzcki&psig=AOvVaw0lpR73_EiPfn2jHtv7XblC&ust=1730030157344000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICN8PH-q4kDFQAAAAAdAAAAABAE">
+
 <!--
 **shtenke/shtenke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
